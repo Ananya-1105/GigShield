@@ -837,31 +837,12 @@ CLAIM SUBMITTED
 
 </div>
 https://www.youtube.com/watch?v=rHdLi2r-mZE
-<br/>
-
-```
-VIDEO BREAKDOWN
-
-<br/>
-
-## PROTOTYPE SCREENS
-
-<div align="center">
-
-<img src="docs/wireframes/screen01_splash.png" width="18%"/>
-<img src="docs/wireframes/screen02_otp_entry.png" width="18%"/>
-<img src="docs/wireframes/screen03_zone_selection.png" width="18%"/>
-<img src="docs/wireframes/screen04_plan_selection.png" width="18%"/>
-<img src="docs/wireframes/screen05_upi_setup.png" width="18%"/>
-
-<br/>
-<sub>Screen 01: Splash &nbsp;·&nbsp; Screen 02: OTP Entry &nbsp;·&nbsp; Screen 03: Zone Selection &nbsp;·&nbsp; Screen 04: Plan Selection &nbsp;·&nbsp; Screen 05: UPI Setup</sub>
-
 </div>
 
 ---
 
 <br/>
+</div>
 
 ## PROTOTYPE SCREENS
 
@@ -909,30 +890,3 @@ VIDEO BREAKDOWN
 
 <br/>
 
-## REPOSITORY STRUCTURE
-
-```
-GigShield/
-│
-├── README.md
-├── .gitignore
-├── LICENSE
-│
-└── docs/
-    |
-    │
-    └── wireframes/
-        ├── screen01_splash.png
-        ├── screen02_otp_entry.png
-        ├── screen03_zone_selection.png
-        ├── screen04_plan_selection.png
-        └── screen05_upi_setup.png
-```
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:065F46,50:1A56A0,100:0D3B7A&height=120&section=footer&text=Built%20for%20Rajesh.%20Built%20for%205%20million%20riders%20like%20him.&fontSize=16&fontColor=ffffff&fontAlignY=65" width="100%"/>
-
-</div>
