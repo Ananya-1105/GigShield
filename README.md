@@ -7,6 +7,7 @@
 ![](https://img.shields.io/badge/-%E2%96%88%20GUIDEWIRE%20DEVTRAILS%202026%20%E2%96%88-1A56A0?style=for-the-badge&labelColor=0D3B7A)
 ![](https://img.shields.io/badge/-%E2%96%88%20PHASE%201%20%E2%96%88-065F46?style=for-the-badge&labelColor=043D2A)
 ![](https://img.shields.io/badge/-%E2%96%88%20ACTIVE%20%E2%96%88-B45309?style=for-the-badge&labelColor=78350F)
+![](https://img.shields.io/badge/-%E2%96%88%20ANTI--SPOOFING%20UPDATED%20%E2%96%88-B91C1C?style=for-the-badge&labelColor=7F1D1D)
 
 <br/><br/>
 
@@ -61,6 +62,95 @@
 ---
 
 <br/>
+---
+
+<br/>
+
+<div align="center">
+
+## THE TEAM -SAP
+
+> *We are not just building a product. We are building financial protection for millions who have none.*
+
+<br/>
+
+<table>
+<tr>
+
+<td align="center" width="20%">
+
+### AKELLA LAKSHMI ANANYA 
+### (TEAM LEAD) 
+
+</td>
+
+<td align="center" width="20%">
+
+### BOMMIDI SREE PRANATHI
+
+</td>
+
+<td align="center" width="20%">
+
+### SALAKA MAHALAKSHMI PRIYANKA
+
+</td>
+
+<td align="center" width="20%">
+
+### KOLISETTY SREYA SRI 
+
+</td>
+
+<td align="center" width="20%">
+
+### CHALAMASETTY VENKATA HIMA SRI  
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+### OUR ROLES
+
+<table>
+<tr>
+
+<td align="center" width="20%">
+
+### CORE SYSTEMS  
+
+</td>
+
+<td align="center" width="20%">
+
+### EXPERIENCE LAYER  
+
+</td>
+
+<td align="center" width="20%">
+
+### INTELLIGENCE LAYER  
+
+</td>
+
+<td align="center" width="20%">
+
+### PRODUCT DESIGN  
+
+</td>
+
+<td align="center" width="20%">
+
+### INFRASTRUCTURE  
+
+</td>
+
+</tr>
+</table>
+
 
 ## 01 · THE CRISIS
 
@@ -69,11 +159,11 @@
 ```
 ╔═══════════════════════════════════════════════════════════════════════════╗
 ║                                                                           ║
-║   India's gig delivery economy moves Rs 1.5 lakh crore annually.         ║
+║   India's gig delivery economy moves Rs 1.5 lakh crore annually.          ║
 ║   The five million riders who power it have received exactly ONE thing    ║
 ║   from the insurance industry in return:                                  ║
 ║                                                                           ║
-║                          A B S O L U T E L Y   N O T H I N G            ║
+║                          A B S O L U T E L Y   N O T H I N G              ║
 ║                                                                           ║
 ╚═══════════════════════════════════════════════════════════════════════════╝
 ```
@@ -130,17 +220,17 @@ When a cyclone, flood, curfew, or AQI spike hits — a rider's week looks like t
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────┐
-│                         THE GIGSHIELD CYCLE                              │
-│                                                                          │
-│   DETECT            VALIDATE           PAY              PROTECT          │
-│   ──────────        ──────────         ──────           ──────────       │
-│   Real-time    ──►  AI checks     ──►  UPI         ──►  Rider safe       │
-│   weather,          GPS, orders,       transfer         at home with     │
-│   AQI, civic        fraud signals      under 2 min      income replaced  │
-│   data feeds        under 15 min       directly                          │
-│                                        to bank                           │
-│                                                                          │
-│              ZERO paperwork · ZERO calls · ZERO forms                    │
+│                         THE GIGSHIELD CYCLE                             |
+│                                                                         │
+│   DETECT            VALIDATE           PAY              PROTECT         │
+│   ──────────        ──────────         ──────           ──────────      │
+│   Real-time    ──►  AI checks     ──►  UPI         ──►  Rider safe      │
+│   weather,          GPS, orders,       transfer         at home with    │
+│   AQI, civic        fraud signals      under 2 min      income replaced │
+│   data feeds        under 15 min       directly                         │
+│                                        to bank                          │
+│                                                                         │
+│              ZERO paperwork · ZERO calls · ZERO forms                   │
 └─────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -310,10 +400,10 @@ Every trigger requires two independent confirmations. We never pay on a single d
 <div align="center">
 
 ```
-╔═══════════════════════════════════════════════════════════════════════╗
-║                                                                       ║
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
 ║   EVERY OTHER TEAM          vs          GIGSHIELD                    ║
-║                                                                       ║
+║                                                                      ║
 ║   Storm arrives                         Storm forecast               ║
 ║        │                                     │                       ║
 ║        ▼                                     ▼                       ║
@@ -330,9 +420,9 @@ Every trigger requires two independent confirmations. We never pay on a single d
 ║                                              │                       ║
 ║                                              ▼                       ║
 ║                                         Payout at MAXIMUM cap        ║
-║                                                                       ║
-║                                         P R O A C T I V E           ║
-╚═══════════════════════════════════════════════════════════════════════╝
+║                                                                      ║
+║                                         P R O A C T I V E            ║
+╚══════════════════════════════════════════════════════════════════════
 ```
 
 </div>
@@ -471,7 +561,7 @@ Example:
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────┐
-│                        GIGSHIELD AI LAYER                                │
+│                        GIGSHIELD AI LAYER                               │
 ├────────────────┬────────────────┬────────────────┬────────────────────  │
 │  MODEL 01      │  MODEL 02      │  MODEL 03      │  MODEL 04            │
 │  ──────────    │  ──────────    │  ──────────    │  ──────────          │
@@ -508,6 +598,146 @@ Example:
 
 <br/>
 
+## 08.5 · ADVERSARIAL DEFENSE — ANTI-SPOOFING STRATEGY
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                                                                           ║
+║    CRITICAL SECURITY UPDATE  ·  MARCH 2026                                ║
+║                                                                           ║
+║    A coordinated GPS-spoofing syndicate of 500+ delivery workers has      ║
+║    been identified targeting parametric insurance platforms via           ║
+║    Telegram-organized fraud rings.                                        ║
+║                                                                           ║
+║    Simple GPS verification is officially obsolete.                        ║
+║    GigShield's Behavioural Coherence Engine is our response.              ║
+║                                                                           ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<br/>
+
+**The Attack We Are Defending Against**
+
+```diff
+- Step 01   500 riders coordinate via a private Telegram group
+- Step 02   Organizer identifies an active high-risk weather zone
+- Step 03   All 500 install a GPS spoofing application
+- Step 04   All 500 fake their device location into the disruption zone
+- Step 05   All 500 submit claims simultaneously
+! Result    500 x Rs 350 = Rs 1,75,000 drained in under 90 seconds
+```
+
+GPS coordinates are just numbers. They can be changed. A single data point cannot be trusted. **We use seven.**
+
+---
+
+**01 — The Differentiation — Genuine Rider vs Bad Actor**
+
+GigShield uses a **Behavioural Coherence Score (BCS)** — a composite signal that asks one question:
+
+> *Does everything about this rider's digital behaviour tell the same story as their GPS?*
+
+| Signal | Genuine Rider | GPS Spoofer |
+|:---|:---|:---|
+| GPS coordinates | Inside zone | Spoofed into zone |
+| **Cell tower IDs** | **Match GPS zone** | **MISMATCH — reveals true location** |
+| Device accelerometer | Stationary, low movement | Normal indoor movement |
+| Platform orders | Zero in zone | Normal acceptance elsewhere |
+| Battery drain | Higher in bad weather | Normal indoor pattern |
+| App usage timing | Checking alerts continuously | Opens briefly just to claim |
+| Historical zone pattern | Matches 6-month delivery history | Zone never delivered in before |
+
+**When these signals contradict each other — BCS drops. Claim is flagged. Not rejected. Flagged.**
+
+---
+
+**02 — The Data — Seven Streams That Cannot Be Simultaneously Faked**
+
+```
+┌──────────────────────────────────────────────────────────────────────────┐
+│  STREAM 01  NETWORK TRIANGULATION                                        │
+│  Cell tower IDs vs GPS zone. Mismatch = immediate flag.                  │
+│  Cannot be spoofed without carrier-level access.                         │
+├──────────────────────────────────────────────────────────────────────────┤
+│  STREAM 02  PLATFORM ORDER SIGNAL                                        │
+│  Real floods collapse platform order volumes zone-wide.                  │
+│  Normal acceptance rate during claimed disruption = not real.            │
+│  A syndicate CANNOT fake a platform-wide order collapse.                 │
+├──────────────────────────────────────────────────────────────────────────┤
+│  STREAM 03  DEVICE SENSOR FINGERPRINTING                                 │
+│  GPS spoofing apps introduce micro-inconsistencies in accelerometer,     │
+│  gyroscope and barometer readings. Isolation Forest detects these.       │
+├──────────────────────────────────────────────────────────────────────────┤
+│  STREAM 04  CLAIM TIMING COHORT ANALYSIS                                 │
+│  500 claims from same pincode in 90 seconds is not organic.              │
+│  Statistical outlier detection on submission timing within cohort.       │
+├──────────────────────────────────────────────────────────────────────────┤
+│  STREAM 05  HISTORICAL ZONE VERIFICATION                                 │
+│  Claim from zone rider has never delivered in = lower BCS.               │
+│  Syndicate members claim from high-risk zones they do not work in.       │
+├──────────────────────────────────────────────────────────────────────────┤
+│  STREAM 06  DEVICE IDENTITY CONSISTENCY                                  │
+│  Device fingerprint logged at onboarding. Different device = flag.       │
+│  Prevents account sharing within syndicates.                             │
+├──────────────────────────────────────────────────────────────────────────┤
+│  STREAM 07  SOCIAL GRAPH ANALYSIS                                        │
+│  Same onboarding window + simultaneous claims + shared subnet = ring.    │
+│  This specifically catches the Telegram group coordination pattern.      │
+└──────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+**03 — The UX Balance — Protecting Honest Riders**
+
+A genuine rider in a flood zone may have weak GPS from bad weather, no cell signal, dead battery, or be completely offline. Binary approve/reject punishes honest people.
+
+```
+CLAIM SUBMITTED
+      │
+      ▼
+┌─────────────────────────────────────────────────────────────────────┐
+│  BEHAVIOURAL COHERENCE ENGINE                                       │
+│  Seven streams scored → BCS generated (0 to 100)                    │
+└──────────────────────────────┬──────────────────────────────────────┘
+                               │
+          ┌────────────────────┼──────────────────────┐
+          │                    │                      │
+     BCS above 75         BCS 40 to 74          BCS below 40
+          │                    │                      │
+          ▼                    ▼                      ▼
+┌──────────────────┐  ┌──────────────────┐  ┌──────────────────────┐
+│  AUTO APPROVE    │  │  SOFT FLAG       │  │  HARD FLAG           │
+│                  │  │                  │  │                      │
+│  Full Rs 350     │  │  Rs 175 now      │  │  No auto payout      │
+│  in 2 minutes    │  │  (50 percent)    │  │  Manual review       │
+│                  │  │                  │  │  within 24 hours     │
+│  No action       │  │  4-hour review   │  │                      │
+│  required        │  │                  │  │  Rider notified      │
+│                  │  │  Remaining       │  │  transparently.      │
+│                  │  │  Rs 175 if       │  │  No penalty if       │
+│                  │  │  verified        │  │  claim is genuine.   │
+└──────────────────┘  └──────────────────┘  └──────────────────────┘
+```
+
+```diff
++ Honest riders are NEVER left with nothing — 50% arrives immediately
++ Appeal is ONE TAP — no forms, no calls, optional photo only
++ Shield Score UNAFFECTED if review confirms a genuine claim
+- Syndicates need reliable fast payouts to operate
+- Partial delayed payouts BREAK their economic model entirely
+```
+
+
+---
+
+<br/>
+
 ## 08 · THE BUILD
 
 | Layer | Technology | The Reason |
@@ -532,28 +762,28 @@ Example:
 ║                       GIGSHIELD ARCHITECTURE                             ║
 ╠══════════════════════════════════════════════════════════════════════════╣
 ║                                                                          ║
-║   ┌──────────────────────────────────────────────────────────────┐      ║
+║   ┌──────────────────────────────────────────────────────────────┐       ║
 ║   │              REACT PWA  (Android-first)                       │      ║
-║   │      Offline · Hindi + English · 4G optimised                │      ║
-║   └─────────────────────────┬────────────────────────────────────┘      ║
+║   │      Offline · Hindi + English · 4G optimised                │       ║
+║   └─────────────────────────┬────────────────────────────────────┘       ║
 ║                             │  REST + WebSocket                          ║
-║   ┌─────────────────────────▼────────────────────────────────────┐      ║
+║   ┌─────────────────────────▼────────────────────────────────────┐       ║
 ║   │              NODE.JS EXPRESS API                              │      ║
 ║   │        Onboarding · Policy · Claims · Auth                    │      ║
-║   └──────────────┬──────────────────────────┬─────────────────── ┘      ║
+║   └──────────────┬──────────────────────────┬─────────────────── ┘       ║
 ║                  │                          │                            ║
-║   ┌──────────────▼──────┐    ┌─────────────▼────────────────────┐      ║
+║   ┌──────────────▼──────┐    ┌─────────────▼────────────────────┐        ║
 ║   │  PYTHON FASTAPI      │    │  POSTGRESQL  +  REDIS             │      ║
 ║   │  ML Service          │    │  Transactional + Cache            │      ║
 ║   │  · XGBoost           │    │  + Redis Pub/Sub                  │      ║
-║   │  · Prophet           │    └──────────────────────────────────┘      ║
+║   │  · Prophet           │    └──────────────────────────────────┘       ║
 ║   │  · IsolationForest   │                                               ║
 ║   └──────────────┬───────┘                                               ║
-║                  │                                                        ║
-║   ┌──────────────▼────────────────────────────────────────────── ┐      ║
+║                  │                                                       ║
+║   ┌──────────────▼────────────────────────────────────────────── ┐       ║
 ║   │            EXTERNAL DATA SOURCES                              │      ║
-║   │  IMD · Open-Meteo · SAFAR AQI · Razorpay · Swiggy (mock)     │      ║
-║   └──────────────────────────────────────────────────────────────┘      ║
+║   │  IMD · Open-Meteo · SAFAR AQI · Razorpay · Swiggy (mock)     │       ║
+║   └──────────────────────────────────────────────────────────────┘       ║
 ╚══════════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -578,12 +808,12 @@ Example:
 
 ```
 ┌──────────────────────────────────────────────────────────────┐
-│              WEEKLY P&L · SHIELD PLUS · ILLUSTRATIVE          │
+│              WEEKLY P&L · SHIELD PLUS · ILLUSTRATIVE         │
 ├──────────────────────────────────────────────────────────────┤
 │  Premium collected per rider per week       Rs  49.00  100%  │
 │  Expected claim cost (60% loss ratio)       Rs  29.40   60%  │
 │  Operating and technology cost              Rs   8.00   16%  │
-│  ────────────────────────────────────────────────────────── │
+│  ──────────────────────────────────────────────────────────  │
 │  Net margin per policy per week             Rs  11.60   24%  │
 └──────────────────────────────────────────────────────────────┘
 ```
@@ -603,11 +833,14 @@ Example:
 
 <div align="center">
 
-### `[ WATCH THE GIGSHIELD PHASE 1 PROTOTYPE  ]`
+### `[ WATCH THE GIGSHIELD PHASE 1 PROTOTYPE]`
 
 </div>
 https://www.youtube.com/watch?v=rHdLi2r-mZE
 <br/>
+
+```
+VIDEO BREAKDOWN
 
 <br/>
 
@@ -686,6 +919,7 @@ GigShield/
 ├── LICENSE
 │
 └── docs/
+    |
     │
     └── wireframes/
         ├── screen01_splash.png
