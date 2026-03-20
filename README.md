@@ -603,29 +603,11 @@ Example:
 
 <div align="center">
 
-### `[ WATCH THE GIGSHIELD PHASE 1 PROTOTYPE — 2 MINUTES ]`
-
-**Link will be updated after video upload**
+### `[ WATCH THE GIGSHIELD PHASE 1 PROTOTYPE  ]`
 
 </div>
-
+https://www.youtube.com/watch?v=rHdLi2r-mZE
 <br/>
-
-```
-VIDEO BREAKDOWN
-
-  0:00 – 0:08    Splash screen. GigShield opens on Android.
-  0:08 – 0:45    Onboarding. OTP → Zone selection with risk meter
-                 → Plan selection → UPI AutoPay setup.
-  0:45 – 1:15    Earnings Forecast Shield. High-risk week detected.
-                 Upgrade offer sent. Rajesh confirms.
-  1:15 – 1:42    Live trigger. 94mm rain in MVP Colony.
-                 Claim validated under 2 minutes.
-                 Rs 350 hits ICICI UPI account.
-  1:42 – 2:00    Dashboards. Rajesh's Shield Score.
-                 Admin heatmap. ML claim forecast.
-```
----
 
 <br/>
 
@@ -704,8 +686,6 @@ GigShield/
 ├── LICENSE
 │
 └── docs/
-    ├── GigShield_Phase1_IdeaDocument.docx
-    ├── GigShield_Figma_VideoGuide.docx
     │
     └── wireframes/
         ├── screen01_splash.png
