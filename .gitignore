@@ -36,6 +36,8 @@ pip-delete-this-directory.txt
 dist/
 build/
 *.egg
+venv/
+backend/venv/
 
 # ── ENVIRONMENT & SECRETS ─────────────────────────────
 .env
